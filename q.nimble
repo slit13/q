@@ -3,7 +3,7 @@
 version       = "0.1.0.0"
 author        = "slit13"
 description   = "Queue-based programming language"
-license       = "AGPL-3.0-or-later"
+license       = "BSD-3.0"
 srcDir        = "src"
 bin           = @["q"]
 
